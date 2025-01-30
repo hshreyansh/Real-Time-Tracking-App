@@ -39,5 +39,7 @@ EJS (Embedded JavaScript templating)
 >> 📍📍🌍🌍🗺️🗺️
 
 ## Support
-email- shreyansh.maholi@gmail.com
-linkedin- https://www.linkedin.com/in/shreyansh-shukla-7a7166249/
+
+📧 email- shreyansh.maholi@gmail.com
+
+🔗linkedin- https://www.linkedin.com/in/shreyansh-shukla-7a7166249/
