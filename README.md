@@ -16,9 +16,13 @@ This project is a real-time device tracking application that utilizes geolocatio
 ## Tech used
 
 **Node.js**
+
 **Express.js**
+
 **Socket.io**
+
 **Leaflet.js**
+
 **EJS (Embedded JavaScript templating)**
 
 ## Structure
