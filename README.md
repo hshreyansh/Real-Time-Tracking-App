@@ -8,18 +8,18 @@ This project is a real-time device tracking application that utilizes geolocatio
 
 ## Features
 
-= Real-time Device Tracking: Continuously monitors and updates device locations in real-time.
-= Interactive Map with Markers: Displays device locations on a dynamic map with easily identifiable markers.
-= Automatic Marker Updates: Instantly updates markers as device locations change.
-= Multi-Device Support: Tracks and displays multiple devices simultaneously.
+1. Real-time Device Tracking: Continuously monitors and updates device locations in real-time.
+2. Interactive Map with Markers: Displays device locations on a dynamic map with easily identifiable markers.
+3. Automatic Marker Updates: Instantly updates markers as device locations change.
+4. Multi-Device Support: Tracks and displays multiple devices simultaneously.
 
 ## Tech used
 
-Node.js
-Express.js
-Socket.io
-Leaflet.js
-EJS (Embedded JavaScript templating)
+**Node.js**
+**Express.js**
+**Socket.io**
+**Leaflet.js**
+**EJS (Embedded JavaScript templating)**
 
 ## Structure
 
